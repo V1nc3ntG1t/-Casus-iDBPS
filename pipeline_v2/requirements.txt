@@ -1,0 +1,11 @@
+keras>=2.11.0
+numpy>=1.24.2
+pandas>=1.5.3
+scikit-learn>=1.2.2
+mldesigner~=0.1.0b12
+matplotlib~=3.7.1
+opencv-python>=4.7.0.72
+django-scheduler>=0.10.1
+seaborn>=0.12.2
+xlrd>=1.0.0
+tensorflow>=2.11.0
